@@ -5,7 +5,7 @@ No JavaScript, no build step, no third-party requests.
 
 ## Files
 - `index.html` – Profile (home)
-- `works.html`, `teaching.html`, `games.html`, `manuals.html`, `data-links.html`
+- `teaching.html`, `games.html`, `manuals.html`, `data-links.html`
 - `ja/index.html` (プロフィール), `ja/works.html` (業績)
 - `style.css` – the only stylesheet
 - `images/` – photos (metadata stripped)
